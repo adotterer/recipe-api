@@ -9,4 +9,4 @@ def printPicnic(itemsDict, leftWidth, rightWidth):
 picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}
 printPicnic(picnicItems, 12, 12)
 
-print("hello".rjust(30, "* * "))
+# print("hello".rjust(30, "* * ")) # does not work with more than 1 character
