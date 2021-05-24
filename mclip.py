@@ -3,6 +3,7 @@
 
 import sys
 import pyperclip
+
 TEXT = {'agree': """Yes, I am available to play. Thank you for contacting me!""",
         'busy': """I'm sorry, I already have another commitment at that time.""",
         'beggar': """Assuming this is a paid opporunity-- what is your rate?""",
