@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 python3 /Users/adott/Documents/PROJECTS/abswpy/mclip.py "$@"
 
-# "$@" passes the bash command to python script
+# "$@" passes the bash argument to python script
