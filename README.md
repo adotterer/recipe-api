@@ -7,3 +7,7 @@
 ```shell
 docker build .
 ```
+
+```shell
+docker-compose build
+```
