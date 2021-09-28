@@ -20,8 +20,6 @@ docker-compose run app sh -c "python manage.py test"
 
 3. Run tests with linting
 
-````shell
-
 ```shell
 docker-compose run app sh -c "python manage.py test && flake8"
-````
+```
